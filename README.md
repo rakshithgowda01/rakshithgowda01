@@ -21,6 +21,11 @@ Always learning, always improving.
 - XSS demonstration website for learning 
 ---
 
+## 🔗 My Links
+- 🌐 [My Portfolio](https://portfolio-rakshith.netlify.app/)
+- 📲 [My Beacons Page](https://beacons.ai/rakshith.r)
+
+
 ## 📊 GitHub Stats
 
 ![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshithgowda01&show_icons=true&theme=radical)
